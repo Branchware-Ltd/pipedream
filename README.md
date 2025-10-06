@@ -28,9 +28,10 @@ _intention_ (but not a guarantee) that changes will be upstreamed back to Dream.
 
 Notably, we intend to add changes which may be of use to Branchware, but which may not
 be suitable upstream. Due to the pace of development required, we cannot wait for changes
-to be upstreamed for our web use-case.
+to be upstreamed for our web use-case. See [docs/PIPEDREAM.md](docs/PIPEDREAM.md) for
+information of differences compared to Dream.
 
-<br>
+<hr>
 
 Dream is **one flat module** in **one package**, documented on
 [**one page**][api-main], but with [**many examples**][tutorial]. It offers:
