@@ -1,4 +1,4 @@
-<h1 align="center">Dream</h1>
+<h1 align="center">Pipedream</h1>
 
 <p align="center">
 Easy-to-use, feature-complete Web framework without boilerplate.
@@ -21,6 +21,15 @@ Easy-to-use, feature-complete Web framework without boilerplate.
 </p>
 
 <br>
+<br>
+
+Pipedream is a development fork of [Dream](https://github.com/aantron/dream) with an 
+_intention_ (but not a guarantee) that changes will be upstreamed back to Dream.
+
+Notably, we intend to add changes which may be of use to Branchware, but which may not
+be suitable upstream. Due to the pace of development required, we cannot wait for changes
+to be upstreamed for our web use-case.
+
 <br>
 
 Dream is **one flat module** in **one package**, documented on
